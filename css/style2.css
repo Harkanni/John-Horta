@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'poppins', sans-serif
+}
+
+.container{
+	width: 100%;
+	min-height: 100vh;
+	padding: 50px, 8%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.gallery{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-gap: 30px;
+}
+.gallery img{
+	width: 100%
+}
