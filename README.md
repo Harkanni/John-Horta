@@ -1,7 +1,7 @@
 # Victor Horta
+Victor Horta is a website built using HTML, CSS, and JavaScript. The website was created for a client who is an architect and has a lot of respect for the late Victor Horta, a Belgian architect and designer. The website features a stunning design that showcases the beauty of Victor Horta's work and serves as a tribute to his legacy.
 ![alt text](https://github.com/Harkanni/John-Horta/blob/main/images/PAGE%20SS.png)
 
-Victor Horta is a website built using HTML, CSS, and JavaScript. The website was created for a client who is an architect and has a lot of respect for the late Victor Horta, a Belgian architect and designer. The website features a stunning design that showcases the beauty of Victor Horta's work and serves as a tribute to his legacy.
 
 - [Features](#features)
 - [Installation](#installation)
