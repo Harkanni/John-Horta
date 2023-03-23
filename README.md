@@ -16,31 +16,31 @@ Victor Horta is a website built using HTML, CSS, and JavaScript. The website was
 
 ### The Victor Horta website has the following features:
 
-    Stunning Design: The website features a beautiful design that highlights the architecture and designs of Victor Horta. The design is both elegant and modern, making it a pleasure to explore the website.
+- Stunning Design: The website features a beautiful design that highlights the architecture and designs of Victor Horta. The design is both elegant and modern, making it a pleasure to explore the website.
 
-    Responsive Layout: The website is fully responsive and can be viewed on any device, including desktops, tablets, and smartphones.
+- Responsive Layout: The website is fully responsive and can be viewed on any device, including desktops, tablets, and smartphones.
 
-    Plugins: The website uses several plugins to enhance the user experience. These include OWL Carousel, which allows for beautiful image galleries, and Lightbox, which allows for easy viewing of images and videos.
+- Plugins: The website uses several plugins to enhance the user experience. These include OWL Carousel, which allows for beautiful image galleries, and Lightbox, which allows for easy viewing of images and videos.
 
-    Image gallery: The website has a gallery section featuring Victor Horta's architecture
-	
-	Information about Victor Horta's life and career.
+- Image gallery: The website has a gallery section featuring Victor Horta's architecture
+
+- Information about Victor Horta's life and career.
 
 ## Installation
 
-	To use this project, simply download or clone the repository to your local machine:
+To use this project, simply download or clone the repository to your local machine:
 
 
 ## Usage
 
-	To use the Victor Horta website, simply navigate to the website URL in your preferred web browser. The website is fully functional and easy to navigate. You can browse through the various pages and explore the different sections of the website to learn more about Victor Horta's work.
-	Technologies Used
+To use the Victor Horta website, simply navigate to the website URL in your preferred web browser. The website is fully functional and easy to navigate. You can browse through the various pages and explore the different sections of the website to learn more about Victor Horta's work.
+Technologies Used
 
 ## The Victor Horta website was built using the following technologies:
 
-    HTML
-    CSS
-    JavaScript
+- HTML
+- CSS
+- JavaScript
 
 The website also uses several plugins to enhance the user experience, including OWL Carousel and Lightbox.
 
